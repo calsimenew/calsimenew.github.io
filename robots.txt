@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://calsimenew.github.io/sitemap.html.gz
+Sitemap: https://calsimenew.github.io/app/sitemap.html.gz
+Sitemap: https://calsimenew.github.io/assets/sitemap.html.gz
+Sitemap: https://calsimenew.github.io/css/sitemap.html.gz
+Sitemap: https://calsimenew.github.io/includes/sitemap.html.gz
+Sitemap: https://calsimenew.github.io/item/sitemap.html.gz
+Sitemap: https://calsimenew.github.io/src/sitemap.html.gz
